@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="hswChEus7677v16qWwx6">
+    <mxGraphModel dx="1191" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-9" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Cusomer" vertex="1">
+          <mxGeometry height="60" width="30" x="239" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-12" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-13" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="valid" vertex="1">
+          <mxGeometry relative="1" x="-0.6988" y="2" as="geometry">
+            <mxPoint x="21" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-14" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Verify if the card is a valid EMV bank card&lt;div&gt;(europay, master, visa)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="130" x="519" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-10" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-8" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" value="Insert ATM card in machine" vertex="1">
+          <mxGeometry height="60" width="120" x="349" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-21" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-11" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Enter PIN" vertex="1">
+          <mxGeometry height="60" width="120" x="734" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-19" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="display error message" vertex="1">
+          <mxGeometry height="60" width="120" x="734" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-16" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gsfN5NFNVuJrOeh98Rkh-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="689" y="210" />
+              <mxPoint x="689" y="280" />
+            </Array>
+            <mxPoint x="409" y="230" as="sourcePoint" />
+            <mxPoint x="459" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-17" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="invalid" vertex="1">
+          <mxGeometry relative="1" x="0.0593" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="card ejected" vertex="1">
+          <mxGeometry height="60" width="120" x="934" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Step 2" vertex="1">
+          <mxGeometry height="80" width="80" x="954" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-23" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Step 1" vertex="1">
+          <mxGeometry height="80" width="80" x="99" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-26" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Step 2" vertex="1">
+          <mxGeometry height="80" width="80" x="109" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-28" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="239" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-30" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-27" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Uses num pad to enter PIN" vertex="1">
+          <mxGeometry height="60" width="120" x="304" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-32" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gsfN5NFNVuJrOeh98Rkh-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="470" />
+            </Array>
+            <mxPoint x="679" y="470.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-33" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="option = Withdrawal" vertex="1">
+          <mxGeometry relative="1" x="-0.3624" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="select options" vertex="1">
+          <mxGeometry height="80" width="80" x="524" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-36" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-35" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="799" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-39" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="unavailable" vertex="1">
+          <mxGeometry relative="1" x="0.1111" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span class=&quot;TextRun SCXP108536312 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;text-decoration-line: inherit; background-color: transparent; text-wrap-mode: wrap; text-align: start; margin: 0px; padding: 0.0868622px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; line-height: 15px; vertical-align: -0.0868622px; color: rgb(64, 64, 64);&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP108536312 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.0868622px; line-height: 0px; position: relative;&quot;&gt;is service available?(e.g. is cash jam in withdrawal cassette)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP108536312 BCX8&quot; style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre-wrap; text-align: start; margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 10pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="679" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-35" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 13.3333px; font-variant-ligatures: none; text-align: start; white-space: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;“Withdrawal” option will be greyed out and customer cannot select that service.  &lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="1034" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-42" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP213366794 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP213366794 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;Screen appears for customer inputs withdrawal amount or selects different amounts (&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SpellingErrorZoomed SCXP213366794 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; background-repeat: repeat-x; background-position: 0% 92%; background-image: url(&amp;quot;data:image/svg+xml;utf8,&amp;lt;svg width=\&amp;quot;34\&amp;quot; height=\&amp;quot;18\&amp;quot; viewBox=\&amp;quot;0 0 34 18\&amp;quot; fill=\&amp;quot;none\&amp;quot; xmlns=\&amp;quot;http://www.w3.org/2000/svg\&amp;quot;&amp;gt;&amp;lt;path d=\&amp;quot;M14.0086 5.16362C14.825 4.41519 15.8924 4 17 4C18.1076 4 19.175 4.41519 19.9914 5.16362L28.3057 12.785C29.8599 14.2097 31.8916 15 34 15V11C32.8924 11 31.825 10.5848 31.0086 9.83638L22.6943 2.215C21.1401 0.790329 19.1084 0 17 0C14.8916 0 12.8599 0.790329 11.3057 2.215L2.99144 9.83638C2.17496 10.5848 1.1076 11 0 11V15C2.10837 15 4.14014 14.2097 5.69433 12.785L14.0086 5.16362Z\&amp;quot; fill=\&amp;quot;white\&amp;quot;/&amp;gt;&amp;lt;path d=\&amp;quot;M14.0086 8.16362C14.825 7.41519 15.8924 7 17 7C18.1076 7 19.175 7.41519 19.9914 8.16362L28.3057 15.785C29.8599 17.2097 31.8916 18 34 18V14C32.8924 14 31.825 13.5848 31.0086 12.8364L22.6943 5.215C21.1401 3.79033 19.1084 3 17 3C14.8916 3 12.8599 3.79033 11.3057 5.215L2.99144 12.8364C2.17496 13.5848 1.1076 14 0 14V18C2.10837 18 4.14014 17.2097 5.69433 15.785L14.0086 8.16362Z\&amp;quot; fill=\&amp;quot;%23EA3323\&amp;quot;/&amp;gt;&amp;lt;/svg&amp;gt;&amp;quot;); border-bottom: 1px solid transparent; background-size: 5px auto; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;SCXP213366794 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;e.g&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP213366794 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP213366794 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt; $10, $20, $30, &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SpellingErrorZoomed SCXP213366794 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; background-repeat: repeat-x; background-position: 0% 92%; background-image: url(&amp;quot;data:image/svg+xml;utf8,&amp;lt;svg width=\&amp;quot;34\&amp;quot; height=\&amp;quot;18\&amp;quot; viewBox=\&amp;quot;0 0 34 18\&amp;quot; fill=\&amp;quot;none\&amp;quot; xmlns=\&amp;quot;http://www.w3.org/2000/svg\&amp;quot;&amp;gt;&amp;lt;path d=\&amp;quot;M14.0086 5.16362C14.825 4.41519 15.8924 4 17 4C18.1076 4 19.175 4.41519 19.9914 5.16362L28.3057 12.785C29.8599 14.2097 31.8916 15 34 15V11C32.8924 11 31.825 10.5848 31.0086 9.83638L22.6943 2.215C21.1401 0.790329 19.1084 0 17 0C14.8916 0 12.8599 0.790329 11.3057 2.215L2.99144 9.83638C2.17496 10.5848 1.1076 11 0 11V15C2.10837 15 4.14014 14.2097 5.69433 12.785L14.0086 5.16362Z\&amp;quot; fill=\&amp;quot;white\&amp;quot;/&amp;gt;&amp;lt;path d=\&amp;quot;M14.0086 8.16362C14.825 7.41519 15.8924 7 17 7C18.1076 7 19.175 7.41519 19.9914 8.16362L28.3057 15.785C29.8599 17.2097 31.8916 18 34 18V14C32.8924 14 31.825 13.5848 31.0086 12.8364L22.6943 5.215C21.1401 3.79033 19.1084 3 17 3C14.8916 3 12.8599 3.79033 11.3057 5.215L2.99144 12.8364C2.17496 13.5848 1.1076 14 0 14V18C2.10837 18 4.14014 17.2097 5.69433 15.785L14.0086 8.16362Z\&amp;quot; fill=\&amp;quot;%23EA3323\&amp;quot;/&amp;gt;&amp;lt;/svg&amp;gt;&amp;quot;); border-bottom: 1px solid transparent; background-size: 5px auto; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;SCXP213366794 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;etc&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP213366794 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP213366794 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;).&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP213366794 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="256" x="1034" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-38" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-34" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gsfN5NFNVuJrOeh98Rkh-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="799" y="580" />
+            </Array>
+            <mxPoint x="609" y="670" as="sourcePoint" />
+            <mxPoint x="659" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-40" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="available" vertex="1">
+          <mxGeometry relative="1" x="0.241" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-44" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-41" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP218147970 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP218147970 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cash denomination check&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;TextRun SCXP218147970 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP218147970 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;(The machine conducts validation to ensure there is sufficient cash/cash denomination in the machine’s withdrawal cassettes and if the machine withdrawal limit is &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP218147970 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP218147970 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;exceeded.)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP218147970 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="332" x="1390" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-46" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840.08" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-47" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="insufficient cash/&lt;div&gt;withdrawal limit exceeded&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0894" y="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="cash denomination check" vertex="1">
+          <mxGeometry height="80" width="80" x="1800" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-49" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine to display error message to customer amd ejecting card back to &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;customer.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP179306684 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="256" x="2020" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-48" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP247420019 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP247420019 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine will send the withdrawal request to the issuing bank. &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP247420019 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="2424" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
