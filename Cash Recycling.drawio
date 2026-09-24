@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="1548" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,17 +160,48 @@
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="cash denomination pass?" vertex="1">
           <mxGeometry height="80" width="80" x="1330" y="537.5" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-49" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-48" value="">
+        <mxCell id="CdAWNET3F7DPj-srFNM5-12" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine to display error message to customer amd ejecting card back to &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;customer.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP179306684 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
           <mxGeometry height="90" width="256" x="1530" y="412.5" as="geometry" />
         </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-10" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-48" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP247420019 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP247420019 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine will send the withdrawal request to the issuing bank. &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP247420019 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="120" x="1860" y="412.5" as="geometry" />
+          <mxGeometry height="90" width="120" x="1530" y="150" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1245" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-17" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP11309107 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.54px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 16px; vertical-align: -0.54px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11309107 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.54px; line-height: 0px; position: relative;&quot;&gt;Issuing bank will conduct the verification for the following:&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP11309107 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1730" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-11" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1860" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" target="gsfN5NFNVuJrOeh98Rkh-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1590" y="410" as="sourcePoint" />
+            <mxPoint x="1830" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-19" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2030" y="110.07" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="check if PIN is valid + default acc has sufficient balance" vertex="1">
+          <mxGeometry height="80" width="220" x="1920" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Screen to allow cust to show balance / print receipt / hide balance" vertex="1">
+          <mxGeometry height="60" width="120" x="2200" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
