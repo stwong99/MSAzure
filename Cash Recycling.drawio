@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="911" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-36" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-35" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="799" y="497.5" />
+              <mxPoint x="799.07" y="467.53" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-35" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 13.3333px; font-variant-ligatures: none; text-align: start; white-space: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;“Withdrawal” option will be greyed out and customer cannot select that service.  &lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="163" x="1034" y="442.5" as="geometry" />
+          <mxGeometry height="90" width="163" x="1034" y="422.5" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-6" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="gsfN5NFNVuJrOeh98Rkh-43" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry height="90" width="120" x="1480" y="150" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="1245" y="472.5" as="geometry" />
+          <mxGeometry height="30" width="30" x="1245" y="452.5" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-17" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-16" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -258,8 +258,18 @@
         <mxCell id="CdAWNET3F7DPj-srFNM5-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Step 3" vertex="1">
           <mxGeometry height="80" width="80" x="1330" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-38" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1655" y="719.95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-36" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Customer see if he want a physical receipt" vertex="1">
           <mxGeometry height="80" width="190" x="1560" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-37" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
