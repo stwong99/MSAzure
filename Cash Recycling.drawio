@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="1290" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,12 @@
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-37" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="1840" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-41" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-40" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Issuing bank" vertex="1">
+          <mxGeometry height="60" width="30" x="1675" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
