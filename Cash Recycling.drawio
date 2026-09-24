@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="1106" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,19 +60,19 @@
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="card ejected" vertex="1">
           <mxGeometry height="60" width="120" x="934" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Step 2" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 2" vertex="1">
           <mxGeometry height="80" width="80" x="954" y="110" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-23" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Step 1" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 1" vertex="1">
           <mxGeometry height="80" width="80" x="99" y="170" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-26" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Step 2" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 2" vertex="1">
           <mxGeometry height="80" width="80" x="120" y="750" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-28" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-27" value="">
@@ -142,6 +142,9 @@
           <mxGeometry relative="1" x="-0.0448" y="-2" as="geometry">
             <mxPoint x="-2" y="73" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-50" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-49" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="cash denomination pass?" vertex="1">
           <mxGeometry height="80" width="80" x="1330" y="680" as="geometry" />
@@ -247,7 +250,7 @@
             <mxPoint x="800" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdAWNET3F7DPj-srFNM5-43" connectable="0" parent="CdAWNET3F7DPj-srFNM5-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="pass" vertex="1">
+        <mxCell id="CdAWNET3F7DPj-srFNM5-43" connectable="0" parent="CdAWNET3F7DPj-srFNM5-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="available" vertex="1">
           <mxGeometry relative="1" x="-0.1409" y="5" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -262,8 +265,11 @@
             <mxPoint x="39" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdAWNET3F7DPj-srFNM5-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Step 3" vertex="1">
+        <mxCell id="CdAWNET3F7DPj-srFNM5-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 3" vertex="1">
           <mxGeometry height="80" width="80" x="760" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="CdAWNET3F7DPj-srFNM5-49" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Step 4" vertex="1">
+          <mxGeometry height="80" width="80" x="1330" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
