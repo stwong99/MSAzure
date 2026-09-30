@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="1407" dy="842" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,20 @@
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Cusomer" vertex="1">
           <mxGeometry height="60" width="30" x="239" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-12" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-11" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-12" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" target="gsfN5NFNVuJrOeh98Rkh-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="691.5" y="210" />
+              <mxPoint x="691.5" y="147.06" />
+              <mxPoint x="734" y="147.06" />
+            </Array>
+            <mxPoint x="734" y="150.1111111111111" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-13" connectable="0" parent="gsfN5NFNVuJrOeh98Rkh-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="valid" vertex="1">
           <mxGeometry relative="1" x="-0.6988" y="2" as="geometry">
             <mxPoint x="21" y="-28" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-14" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-11" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Verify if the card is a &lt;b&gt;valid &lt;/b&gt;EMV bank card&lt;div&gt;(europay, master, visa)&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="130" x="519" y="150" as="geometry" />
@@ -29,12 +33,6 @@
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-8" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" value="Insert ATM card in machine" vertex="1">
           <mxGeometry height="60" width="120" x="349" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-21" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-20" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-11" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="Enter PIN" vertex="1">
-          <mxGeometry height="60" width="120" x="734" y="120" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-19" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-18" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +59,7 @@
           <mxGeometry height="60" width="120" x="934" y="250" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 2" vertex="1">
-          <mxGeometry height="80" width="80" x="954" y="110" as="geometry" />
+          <mxGeometry height="80" width="80" x="754" y="113" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-23" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -84,7 +82,7 @@
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-30" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-27" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Uses num pad to enter PIN" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-27" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="Uses num pad to enter PIN" vertex="1">
           <mxGeometry height="60" width="120" x="315" y="760" as="geometry" />
         </mxCell>
         <mxCell id="gsfN5NFNVuJrOeh98Rkh-32" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gsfN5NFNVuJrOeh98Rkh-34" value="">
@@ -143,7 +141,7 @@
             <mxPoint x="-2" y="73" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdAWNET3F7DPj-srFNM5-50" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" value="">
+        <mxCell id="CdAWNET3F7DPj-srFNM5-50" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z61JMccLJcC4N30rA2eu-24" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1567" y="870" as="targetPoint" />
           </mxGeometry>
@@ -153,13 +151,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="ATM validation/ Cash denomination pass?" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="ATM validation on its machine&#39;s withdrawal cassetes" vertex="1">
           <mxGeometry height="80" width="140" x="1497" y="680" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-12" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="CdAWNET3F7DPj-srFNM5-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gsfN5NFNVuJrOeh98Rkh-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine to display error message to customer and rejecting card back to &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;customer.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP179306684 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
+        <mxCell id="gsfN5NFNVuJrOeh98Rkh-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine to display error message to customer and rejecting card back to &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP179306684 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP179306684 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative;&quot;&gt;customer.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP179306684 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;EOP SCXP179306684 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;(Machine insufficient cash/ exceed withdrawal limit)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="730" x="1707" y="422.5" as="geometry" />
         </mxCell>
         <mxCell id="CdAWNET3F7DPj-srFNM5-10" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=#f5f5f5;strokeColor=#666666;" target="CdAWNET3F7DPj-srFNM5-9" value="">
@@ -341,18 +339,18 @@
         <mxCell id="z61JMccLJcC4N30rA2eu-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="physical&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="80" x="1267" y="1492" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-59" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-58" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-62" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-61" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Send withdrawal request to issuing bank" vertex="1">
-          <mxGeometry height="60" width="120" x="1507" y="881" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Send withdrawal request to issuing bank&lt;div&gt;(e.g. DBS, OCBC, UOB)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1507" y="871" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-37" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z61JMccLJcC4N30rA2eu-36" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1305.0000000000177" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-31" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Enter/ Select withdrawal amount" vertex="1">
+        <mxCell id="z61JMccLJcC4N30rA2eu-31" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="Enter/ Select withdrawal amount" vertex="1">
           <mxGeometry height="60" width="120" x="1123" y="690.5" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-38" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gsfN5NFNVuJrOeh98Rkh-43" value="">
@@ -368,80 +366,55 @@
         <mxCell id="z61JMccLJcC4N30rA2eu-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 3" vertex="1">
           <mxGeometry height="80" width="80" x="1311" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-41" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-44" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-69" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z61JMccLJcC4N30rA2eu-71" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1936.9999999999782" y="911" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-42" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP247420019 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.425px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 17px; vertical-align: -0.425px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP247420019 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.425px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine will send the withdrawal request to the issuing bank. &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP247420019 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="120" x="1926" y="900.5" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-70" connectable="0" parent="z61JMccLJcC4N30rA2eu-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pass" vertex="1">
+          <mxGeometry relative="1" x="-0.1961" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-43" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-50" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Issuing Bank verification?" vertex="1">
+          <mxGeometry height="80" width="160" x="1683" y="871" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span class=&quot;TextRun SCXP11309107 BCX8&quot; lang=&quot;EN-US&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; margin: 0px; padding: 0.54px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-kerning: none; line-height: 16px; vertical-align: -0.54px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11309107 BCX8&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.54px; line-height: 0px; position: relative;&quot;&gt;Issuing bank will conduct the verification for the following:&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP11309107 BCX8&quot; style=&quot;background-color: transparent; white-space: pre-wrap; text-align: start; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="2086" y="915.5" as="geometry" />
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" target="z61JMccLJcC4N30rA2eu-42" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-63" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-61" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="z61JMccLJcC4N30rA2eu-66" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1987.96" y="1175.7" as="sourcePoint" />
-            <mxPoint x="2276" y="1180.5" as="targetPoint" />
+            <mxPoint x="1944" y="832" as="sourcePoint" />
+            <mxPoint x="1763" y="695.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-46" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-52" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2476" y="860.5699999999999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-47" connectable="0" parent="z61JMccLJcC4N30rA2eu-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Pass" vertex="1">
-          <mxGeometry relative="1" x="-0.0519" y="-1" as="geometry">
+        <mxCell id="z61JMccLJcC4N30rA2eu-64" connectable="0" parent="z61JMccLJcC4N30rA2eu-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PIN invalid&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;Insufficient balance&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2964" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-48" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-54" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-67" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gsfN5NFNVuJrOeh98Rkh-45" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2476" y="1030.57" />
+              <mxPoint x="1757.85" y="594.97" />
+              <mxPoint x="1757.85" y="594.97" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-49" connectable="0" parent="z61JMccLJcC4N30rA2eu-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Fail" vertex="1">
-          <mxGeometry relative="1" x="-0.0948" y="3" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="z61JMccLJcC4N30rA2eu-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reject Transaction" vertex="1">
+          <mxGeometry height="60" width="120" x="1703" y="653" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="check if PIN is &lt;b&gt;valid &lt;/b&gt;+ default acc has&lt;b&gt; sufficient&lt;/b&gt; balance" vertex="1">
-          <mxGeometry height="80" width="220" x="2236" y="905.5" as="geometry" />
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-51" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-55" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-75" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-74" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-52" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Screen to allow cust to choose 1) show balance 2) print receipt 3) hide balance" vertex="1">
-          <mxGeometry height="90" width="120" x="2536" y="815.5" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-71" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Screen to allow cust to choose 1) show balance 2) print receipt 3) hide balance" vertex="1">
+          <mxGeometry height="102" width="120" x="1955" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-53" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;dashed=1;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2596" y="1130.5" />
-              <mxPoint x="2596" y="1130.5" />
-            </Array>
-            <mxPoint x="2596" y="1173.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-54" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Transaction rejected&lt;div&gt;customer see error&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2536" y="1000.5" as="geometry" />
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 3" vertex="1">
-          <mxGeometry height="80" width="80" x="2756" y="820.5" as="geometry" />
-        </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-56" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" target="z61JMccLJcC4N30rA2eu-44" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-77" edge="1" parent="1" source="z61JMccLJcC4N30rA2eu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-57" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Issuing bank" vertex="1">
-          <mxGeometry height="60" width="30" x="2121" y="750.5" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 4" vertex="1">
+          <mxGeometry height="80" width="80" x="2148" y="871" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-58" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 4" vertex="1">
-          <mxGeometry height="80" width="80" x="1700" y="871" as="geometry" />
+        <mxCell id="z61JMccLJcC4N30rA2eu-76" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="2288" y="881" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
