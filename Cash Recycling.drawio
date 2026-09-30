@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="1548" dy="926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="z61JMccLJcC4N30rA2eu-2" edge="1" parent="1" source="CdAWNET3F7DPj-srFNM5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2608" y="128" />
+              <mxPoint x="2608.08" y="162.31" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,13 +185,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="After Withdrawal" vertex="1">
-          <mxGeometry height="647.5" width="1408" x="2634" y="10" as="geometry" />
+          <mxGeometry height="683" width="1408" x="2634" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-11" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-10" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-11" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="343.46000000000004" y="318" />
+              <mxPoint x="387" y="226" />
             </Array>
+            <mxPoint x="415" y="191" as="sourcePoint" />
+            <mxPoint x="457.1399999999999" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-16" connectable="0" parent="z61JMccLJcC4N30rA2eu-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -199,11 +201,12 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z61JMccLJcC4N30rA2eu-15" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-14" value="">
+        <mxCell id="z61JMccLJcC4N30rA2eu-15" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z61JMccLJcC4N30rA2eu-14" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="343.5799999999999" y="488.08000000000004" />
+              <mxPoint x="387" y="81" />
             </Array>
+            <mxPoint x="432" y="76" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-17" connectable="0" parent="z61JMccLJcC4N30rA2eu-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -212,16 +215,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-6" parent="z61JMccLJcC4N30rA2eu-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Card&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Taken?&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="317" y="307.5" as="geometry" />
+          <mxGeometry height="80" width="80" x="347" y="116" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-13" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-10" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;" value="Client to deposit/ transfer money to try withdrawal next time" vertex="1">
-          <mxGeometry height="60" width="120" x="435" y="239" as="geometry" />
+          <mxGeometry height="60" width="120" x="598" y="205" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-12" parent="z61JMccLJcC4N30rA2eu-5" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="625" y="254" as="geometry" />
+          <mxGeometry height="30" width="30" x="788" y="220" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-102" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-101" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -230,19 +233,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-14" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="After X minutes, machine to retain the card" vertex="1">
-          <mxGeometry height="60" width="120" x="435" y="409" as="geometry" />
+          <mxGeometry height="60" width="120" x="469" y="51" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-105" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-104" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-101" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="DBS&lt;div&gt;(est. 30 seconds)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="625" y="409" as="geometry" />
+          <mxGeometry height="60" width="120" x="651" y="51" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-104" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Customer to block" vertex="1">
-          <mxGeometry height="60" width="120" x="825" y="409" as="geometry" />
+          <mxGeometry height="60" width="120" x="806" y="51" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-3" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Customer to collect the card" vertex="1">
-          <mxGeometry height="60" width="120" x="135" y="317.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="165" y="126" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-7" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -251,16 +254,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-1" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Customer to collect cash notes" vertex="1">
-          <mxGeometry height="60" width="120" x="135" y="88" as="geometry" />
+          <mxGeometry height="60" width="120" x="165" y="413" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-5" parent="z61JMccLJcC4N30rA2eu-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Cash collected?" vertex="1">
-          <mxGeometry height="80" width="80" x="301" y="78" as="geometry" />
+          <mxGeometry height="80" width="80" x="331" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-26" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z61JMccLJcC4N30rA2eu-3" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-1" parent="z61JMccLJcC4N30rA2eu-5" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Customer" vertex="1">
-          <mxGeometry height="60" width="30" x="46" y="88" as="geometry" />
-        </mxCell>
-        <mxCell id="nKFLGTUvrixIj4yB-J3S-2" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="z61JMccLJcC4N30rA2eu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-1" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="30" x="47" y="126" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-12" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="nKFLGTUvrixIj4yB-J3S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-11" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -274,11 +277,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-10" parent="z61JMccLJcC4N30rA2eu-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Partial/ Fully" vertex="1">
-          <mxGeometry height="80" width="80" x="447" y="78" as="geometry" />
+          <mxGeometry height="80" width="80" x="477" y="403" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-8" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="nKFLGTUvrixIj4yB-J3S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-10" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461" y="118" as="targetPoint" />
+            <mxPoint x="521" y="-38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-9" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -290,19 +293,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-11" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;" value="Alert sounds persist" vertex="1">
-          <mxGeometry height="60" width="120" x="641" y="34" as="geometry" />
+          <mxGeometry height="60" width="120" x="671" y="359" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-14" parent="z61JMccLJcC4N30rA2eu-5" style="rounded=0;whiteSpace=wrap;html=1;" value="Alert sound offed" vertex="1">
-          <mxGeometry height="60" width="120" x="644" y="134" as="geometry" />
+          <mxGeometry height="60" width="120" x="674" y="459" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-15" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="nKFLGTUvrixIj4yB-J3S-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-14" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="583.6199999999999" y="118" />
-              <mxPoint x="583.6199999999999" y="163.24" />
+              <mxPoint x="613.6199999999999" y="443" />
+              <mxPoint x="613.6199999999999" y="488.24" />
             </Array>
-            <mxPoint x="387" y="341" as="sourcePoint" />
-            <mxPoint x="437" y="291" as="targetPoint" />
+            <mxPoint x="417" y="666" as="sourcePoint" />
+            <mxPoint x="467" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-17" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fully" vertex="1">
@@ -311,21 +314,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-18" parent="z61JMccLJcC4N30rA2eu-5" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ATM machine will retain the card" vertex="1">
-          <mxGeometry height="60" width="120" x="837" y="34" as="geometry" />
+          <mxGeometry height="60" width="120" x="867" y="359" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-22" edge="1" parent="z61JMccLJcC4N30rA2eu-5" source="nKFLGTUvrixIj4yB-J3S-5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="341" y="49" />
+              <mxPoint x="371" y="374" />
             </Array>
-            <mxPoint x="528" y="400" as="sourcePoint" />
-            <mxPoint x="578" y="350" as="targetPoint" />
+            <mxPoint x="558" y="725" as="sourcePoint" />
+            <mxPoint x="608" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-23" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
           <mxGeometry relative="1" x="-0.4425" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-27" parent="z61JMccLJcC4N30rA2eu-5" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="477" y="199" as="geometry" />
         </mxCell>
         <mxCell id="z61JMccLJcC4N30rA2eu-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;&lt;ul&gt;&lt;li&gt;&lt;ul&gt;&lt;li&gt;During&amp;nbsp;&#xa;&lt;ul&gt;&lt;li&gt;Wrong PIN&lt;/li&gt;&lt;li&gt;Max PIN attempts hit&lt;/li&gt;&lt;li&gt;$10, $50 , $100 notes available incorrect info&lt;/li&gt;&lt;li&gt;Missing account type to choose&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;After&#xa;&lt;ul&gt;&lt;li&gt;Cash not taken (full / partial)&lt;/li&gt;&lt;li&gt;Card not taken&lt;/li&gt;&lt;li&gt;SMS Notification not triggered&amp;nbsp;&lt;/li&gt;&lt;li&gt;ATM Screen instruction incorrect&lt;/li&gt;&lt;li&gt;Receipt show wrong info&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="219" width="387" x="4153.003251953125" y="80.00331298828132" as="geometry" />
