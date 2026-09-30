@@ -593,6 +593,11 @@
         <mxCell id="nKFLGTUvrixIj4yB-J3S-52" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-51" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-57" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="cust. click&lt;div&gt;&#39;Done&#39;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0502" y="2" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-48" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cust. puts the cash into the opened cash compartment. &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="928" y="1203" as="geometry" />
         </mxCell>
@@ -600,15 +605,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-51" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cash compartment closes after detecting the cash &lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="74" width="120" x="1098" y="1206" as="geometry" />
+          <mxGeometry height="74" width="120" x="1131" y="1206" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-56" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1449" y="1243" as="targetPoint" />
+            <mxPoint x="1471.17" y="1243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-53" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine proceeds to check and counts the &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;bills. &lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1268" y="1213" as="geometry" />
+          <mxGeometry height="60" width="120" x="1307" y="1213" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
