@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="737" dy="441" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,10 +636,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-59" parent="1" style="whiteSpace=wrap;html=1;" value="Error message is displayed" vertex="1">
-          <mxGeometry height="60" width="120" x="1589" y="1104" as="geometry" />
+          <mxGeometry height="60" width="99" x="1589" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-93" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-92" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-61" parent="1" style="whiteSpace=wrap;html=1;" value="Whole stack returned to cust." vertex="1">
-          <mxGeometry height="60" width="120" x="1789" y="1104" as="geometry" />
+          <mxGeometry height="60" width="120" x="1729" y="1104" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-66" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-58" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-68" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -724,7 +727,7 @@
           <mxGeometry height="60" width="120" x="2171" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-85" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Retry?" vertex="1">
-          <mxGeometry height="80" width="80" x="2341" y="1198" as="geometry" />
+          <mxGeometry height="80" width="80" x="2336.56" y="1195" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-87" parent="1" style="whiteSpace=wrap;html=1;" value="Cust. press continue" vertex="1">
           <mxGeometry height="60" width="120" x="2191" y="1390" as="geometry" />
@@ -739,6 +742,18 @@
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 3" vertex="1">
           <mxGeometry height="80" width="80" x="782" y="1213" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-92" parent="1" style="whiteSpace=wrap;html=1;" value="Naturally, cust. need to remove some notes" vertex="1">
+          <mxGeometry height="60" width="120" x="1988" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-94" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-92" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-85" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2376.56" y="1134" />
+            </Array>
+            <mxPoint x="2102" y="1256" as="sourcePoint" />
+            <mxPoint x="2152" y="1206" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
