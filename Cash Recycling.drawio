@@ -607,13 +607,125 @@
         <mxCell id="nKFLGTUvrixIj4yB-J3S-51" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cash compartment closes after detecting the cash &lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="74" width="120" x="1149" y="1206" as="geometry" />
         </mxCell>
-        <mxCell id="nKFLGTUvrixIj4yB-J3S-56" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-56" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" target="nKFLGTUvrixIj4yB-J3S-58" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1471.17" y="1243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-53" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine proceeds to check and counts the &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;bills. &lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1311" y="1213" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-60" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-59" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1541.5" y="1123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-63" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4005" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-58" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;" value="No. of notes exceed the deposit limit?" vertex="1">
+          <mxGeometry height="80" width="111" x="1486" y="1203" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-62" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-59" parent="1" style="whiteSpace=wrap;html=1;" value="Error message is displayed" vertex="1">
+          <mxGeometry height="60" width="120" x="1603" y="1091" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-61" parent="1" style="whiteSpace=wrap;html=1;" value="Whole stack returned to cust." vertex="1">
+          <mxGeometry height="60" width="120" x="1803" y="1091" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-66" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-58" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-68" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1541.5" y="1328.92" />
+            </Array>
+            <mxPoint x="1607" y="1219" as="sourcePoint" />
+            <mxPoint x="1603" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-67" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.6261" y="-7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-73" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-68" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Notes verification?" vertex="1">
+          <mxGeometry height="80" width="80" x="1597" y="1288" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-70" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-71" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1437" y="1165" as="sourcePoint" />
+            <mxPoint x="1657" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-71" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="API from bank" vertex="1">
+          <mxGeometry height="60" width="120" x="1335" y="1087" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-75" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-72" parent="1" style="whiteSpace=wrap;html=1;" value="Screen show cust. the 1) Total count of each denomination and 2) Total amount respectively." vertex="1">
+          <mxGeometry height="85" width="120" x="1737" y="1285.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-77" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-76" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1947" y="1219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-78" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2478" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-74" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Any torn/counterfeit bill?" vertex="1">
+          <mxGeometry height="80" width="80" x="1907" y="1288" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-84" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-76" parent="1" style="whiteSpace=wrap;html=1;" value="Rejected notes&lt;div&gt;back in tray&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2005" y="1192" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-88" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-79" parent="1" style="whiteSpace=wrap;html=1;" value="Close tray" vertex="1">
+          <mxGeometry height="60" width="120" x="2005" y="1377" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-81" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-74" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-79" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1947" y="1407.25" />
+            </Array>
+            <mxPoint x="1711" y="1241" as="sourcePoint" />
+            <mxPoint x="1761" y="1191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-82" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No, all valid" vertex="1">
+          <mxGeometry relative="1" x="-0.5527" y="3" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-86" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-83" parent="1" style="whiteSpace=wrap;html=1;" value="Cust. take back the rejected ntoes" vertex="1">
+          <mxGeometry height="60" width="120" x="2185" y="1192" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-85" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Retry?" vertex="1">
+          <mxGeometry height="80" width="80" x="2355" y="1185" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-87" parent="1" style="whiteSpace=wrap;html=1;" value="Cust. press continue" vertex="1">
+          <mxGeometry height="60" width="120" x="2205" y="1377" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
