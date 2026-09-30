@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="hswChEus7677v16qWwx6">
-    <mxGraphModel dx="968" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="441" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,8 @@
         <mxCell id="nKFLGTUvrixIj4yB-J3S-41" edge="1" parent="1" source="gsfN5NFNVuJrOeh98Rkh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-40" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575.2" y="1165.2" />
+              <mxPoint x="569.44" y="1078.72" />
+              <mxPoint x="569.44" y="1078.72" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -558,12 +559,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-40" parent="1" style="whiteSpace=wrap;html=1;" value="Cash compartment opens for cust. to input bills" vertex="1">
-          <mxGeometry height="60" width="120" x="524" y="1119" as="geometry" />
+          <mxGeometry height="60" width="120" x="519" y="1078" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-46" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-45" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="822.7" y="1005.6" />
+              <mxPoint x="817.7" y="964.6" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -572,11 +573,10 @@
             <mxPoint x="-21" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKFLGTUvrixIj4yB-J3S-49" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-48" value="">
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-49" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-89" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="827" y="1243.09" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="822.03" y="1275.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-50" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="available" vertex="1">
@@ -585,40 +585,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="is &lt;b&gt;service available?&lt;/b&gt; (e.g. shutter fault)&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="214" x="720" y="1109" as="geometry" />
+          <mxGeometry height="80" width="214" x="715" y="1068" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-45" parent="1" style="whiteSpace=wrap;html=1;" value="&#39;Deposit&#39; option will be greyed out and customer cannot select this service" vertex="1">
-          <mxGeometry height="60" width="120" x="919" y="977" as="geometry" />
+          <mxGeometry height="60" width="120" x="914" y="936" as="geometry" />
         </mxCell>
-        <mxCell id="nKFLGTUvrixIj4yB-J3S-52" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-51" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-52" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-51" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1034" y="1256" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nKFLGTUvrixIj4yB-J3S-57" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="cust. click&lt;div&gt;&#39;Done&#39;&lt;/div&gt;" vertex="1">
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-57" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" value="cust. click&lt;div&gt;&#39;Done&#39;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0502" y="2" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="11" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-48" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cust. puts the cash into the opened cash compartment. &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 0px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot;&gt;​&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="928" y="1203" as="geometry" />
+          <mxGeometry height="80" width="120" x="939" y="1213" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-54" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-51" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Cash compartment closes after detecting the cash &lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="74" width="120" x="1149" y="1206" as="geometry" />
+          <mxGeometry height="74" width="120" x="1135" y="1219" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-56" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" target="nKFLGTUvrixIj4yB-J3S-58" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1471.17" y="1243" as="targetPoint" />
+            <mxPoint x="1457.17" y="1256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-53" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;Machine proceeds to check and counts the &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXP11138965 BCX0&quot; lang=&quot;EN-US&quot; style=&quot;white-space: pre-wrap; margin: 0px; padding: 0.536667px 0px 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; text-align: left; background-color: rgb(255, 255, 255); color: rgb(64, 64, 64); font-size: 11pt; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; line-height: 17px; vertical-align: -0.536667px; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP11138965 BCX0&quot; style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; touch-action: pan-x pan-y; vertical-align: 0.536667px; line-height: 0px; position: relative; white-space: break-spaces;&quot;&gt;bills. &lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1311" y="1213" as="geometry" />
+          <mxGeometry height="60" width="120" x="1297" y="1226" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-60" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-59" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1541.5" y="1123" />
+              <mxPoint x="1527.5" y="1136" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -628,24 +630,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-58" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;" value="No. of notes exceed the deposit limit?" vertex="1">
-          <mxGeometry height="80" width="111" x="1486" y="1203" as="geometry" />
+          <mxGeometry height="80" width="111" x="1472" y="1216" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-62" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-61" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-59" parent="1" style="whiteSpace=wrap;html=1;" value="Error message is displayed" vertex="1">
-          <mxGeometry height="60" width="120" x="1603" y="1091" as="geometry" />
+          <mxGeometry height="60" width="120" x="1589" y="1104" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-61" parent="1" style="whiteSpace=wrap;html=1;" value="Whole stack returned to cust." vertex="1">
-          <mxGeometry height="60" width="120" x="1803" y="1091" as="geometry" />
+          <mxGeometry height="60" width="120" x="1789" y="1104" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-66" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-58" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-68" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1541.5" y="1328.92" />
+              <mxPoint x="1527.5" y="1341.92" />
             </Array>
-            <mxPoint x="1607" y="1219" as="sourcePoint" />
-            <mxPoint x="1603" y="1330" as="targetPoint" />
+            <mxPoint x="1593" y="1232" as="sourcePoint" />
+            <mxPoint x="1589" y="1343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-67" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -657,27 +659,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-68" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Notes verification?" vertex="1">
-          <mxGeometry height="80" width="80" x="1597" y="1288" as="geometry" />
+          <mxGeometry height="80" width="80" x="1583" y="1301" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-70" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-71" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-58" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1437" y="1165" as="sourcePoint" />
-            <mxPoint x="1657" y="1169" as="targetPoint" />
+            <mxPoint x="1423" y="1178" as="sourcePoint" />
+            <mxPoint x="1643" y="1182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-71" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="API from bank" vertex="1">
-          <mxGeometry height="60" width="120" x="1335" y="1087" as="geometry" />
+          <mxGeometry height="60" width="120" x="1321" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-75" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-74" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-72" parent="1" style="whiteSpace=wrap;html=1;" value="Screen show cust. the 1) Total count of each denomination and 2) Total amount respectively." vertex="1">
-          <mxGeometry height="85" width="120" x="1737" y="1285.5" as="geometry" />
+          <mxGeometry height="85" width="120" x="1723" y="1298.5" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-77" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-76" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1947" y="1219" />
+              <mxPoint x="1933" y="1232" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -687,27 +689,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-74" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Any torn/counterfeit bill?" vertex="1">
-          <mxGeometry height="80" width="80" x="1907" y="1288" as="geometry" />
+          <mxGeometry height="80" width="80" x="1893" y="1301" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-84" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-76" parent="1" style="whiteSpace=wrap;html=1;" value="Rejected notes&lt;div&gt;back in tray&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2005" y="1192" as="geometry" />
+          <mxGeometry height="60" width="120" x="1991" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-88" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-87" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-79" parent="1" style="whiteSpace=wrap;html=1;" value="Close tray" vertex="1">
-          <mxGeometry height="60" width="120" x="2005" y="1377" as="geometry" />
+          <mxGeometry height="60" width="120" x="1991" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-81" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-74" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nKFLGTUvrixIj4yB-J3S-79" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1947" y="1407.25" />
+              <mxPoint x="1933" y="1420.25" />
             </Array>
-            <mxPoint x="1711" y="1241" as="sourcePoint" />
-            <mxPoint x="1761" y="1191" as="targetPoint" />
+            <mxPoint x="1697" y="1254" as="sourcePoint" />
+            <mxPoint x="1747" y="1204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-82" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No, all valid" vertex="1">
@@ -719,13 +721,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-83" parent="1" style="whiteSpace=wrap;html=1;" value="Cust. take back the rejected ntoes" vertex="1">
-          <mxGeometry height="60" width="120" x="2185" y="1192" as="geometry" />
+          <mxGeometry height="60" width="120" x="2171" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-85" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Retry?" vertex="1">
-          <mxGeometry height="80" width="80" x="2355" y="1185" as="geometry" />
+          <mxGeometry height="80" width="80" x="2341" y="1198" as="geometry" />
         </mxCell>
         <mxCell id="nKFLGTUvrixIj4yB-J3S-87" parent="1" style="whiteSpace=wrap;html=1;" value="Cust. press continue" vertex="1">
-          <mxGeometry height="60" width="120" x="2205" y="1377" as="geometry" />
+          <mxGeometry height="60" width="120" x="2191" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-90" edge="1" parent="1" source="nKFLGTUvrixIj4yB-J3S-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nKFLGTUvrixIj4yB-J3S-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-91" connectable="0" parent="nKFLGTUvrixIj4yB-J3S-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bill&lt;div&gt;verification&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2113" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKFLGTUvrixIj4yB-J3S-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Step 3" vertex="1">
+          <mxGeometry height="80" width="80" x="782" y="1213" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
